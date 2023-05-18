@@ -1,0 +1,26 @@
+.counterButton{
+    font-size:16px;
+    background-color: antiquewhite;
+    width: 100px;
+    margin:10px;
+    padding: 15px;
+    border-radius: 30px;
+
+}
+.Counter{
+    font-size: 70px;
+
+}
+.Count{
+    font-size:50px;
+    padding: 10px;
+    
+}
+.ResetButton{
+    font-size:16px;
+    background-color:cornflowerblue;
+    width: 100px;
+    margin:10px;
+    padding: 15px;
+    border-radius: 30px;
+}
